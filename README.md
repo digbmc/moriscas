@@ -18,6 +18,8 @@
     - [Transcription text](transcriptions/garcia-maior.txt)
   - Paredes, Maria de  - some transcription
     - [Transcription text](transcriptions/paredes-maria-de.txt)
+  - Gomez, Maria - not started
+  - Rodriguez, Mari - not started
 
 ## Documentation
 
