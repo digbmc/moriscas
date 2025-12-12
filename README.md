@@ -6,23 +6,18 @@
   - [IIIF Manifest](https://colenda.library.upenn.edu/items/ark:/81431/p3r20sf8q/manifest)
 - Trials contained
   - Naranja, Maria - some transcription
-  - Pérez, Ángela  
+    - [Transcription text](transcriptions/naranja-maria.txt)
   - Serrana, Mari  - some transcription
+    - [Transcription text](transcriptions/serrana-mari.txt)
   - Lopez, Mari  - some transcription
-    - Images 657-
-    - [Transcription text](transcriptions/marilopez-transcription.txt)
-  - Torres, Ana de  
-  - Vaez, Mari  
-  - Nuñez Marquez, Angela  
-  - Rodriguez, Mari  
-  - Henriquez, Ana  
-  - Gomez, Maria Alicia  
+    - Images 657-672
+    - [Transcription text](transcriptions/lopez-mari.txt)
   - Roya, Mayor la  - some transcription
+    - [Transcription text](transcriptions/roya-mayor-la.txt)
   - Garcia, Maior  - some transcription
+    - [Transcription text](transcriptions/garcia-maior.txt)
   - Paredes, Maria de  - some transcription
-  - Rodriguez Silva, Diego  
-  - Maldonado, Thomas  
-  - Barozzi, Francesco, 1537- 1604
+    - [Transcription text](transcriptions/paredes-maria-de.txt)
 
 ## Documentation
 
