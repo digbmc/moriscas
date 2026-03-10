@@ -1,2 +1,6 @@
-images/*
+/images/*
 .DS_Store
+/submanifests
+
+colenda-data/output
+colenda-data/split_iiif_manifest_by_range.py
